@@ -116,7 +116,7 @@ function Footer() {
             <p className="footer-copyright-text">
               <Link className="footer-copyright-link" to={""} target="_self">
                 {" "}
-                ©2023. | Designed By: Sanay UJ. | All rights reserved.{" "}
+              
               </Link>
             </p>
           </div>
